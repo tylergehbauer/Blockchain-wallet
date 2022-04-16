@@ -24,5 +24,6 @@ I have decided to hire and pay Jo since she has a great fintech rating of 4.7 an
 ![image_6](Images/sc6.png)
 
 ## The Block and Recipt on Ganache: 
-![image_7](Images/sc7.png)
 ![image_8](Images/sc10.png)
+![image_7](Images/sc7.png)
+
