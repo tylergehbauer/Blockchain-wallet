@@ -14,7 +14,7 @@ My account balance before and after transaction (Ganache):
 ![image_3](Images/sc1.png)
 ![image_4](Images/sc4.png)
 
-Transaction detaila on Ganache:
+Transaction details on Ganache:
 ![image_5](Images/sc5.png)
 ![image_6](Images/sc6.png)
 
